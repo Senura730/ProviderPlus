@@ -1,10 +1,6 @@
 @import "tailwindcss";
 @tailwind utilities;
 
-body {
-    @apply bg-offwhite text-navy;
-}
-
 html {
     scroll-behavior: smooth;
 }
