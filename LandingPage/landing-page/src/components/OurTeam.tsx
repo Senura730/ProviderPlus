@@ -39,8 +39,8 @@ const teamMembers = [
         role: "System Architect",
         image: "/team/banuka.jpg",
         quote: "Justified Agile Scrum & OOAD methodologies. Refined technical specifications and integrated design systems.",
-        linkedin: "https://www.linkedin.com/in/your-profile",
-        github: "https://github.com/your-username"
+        linkedin: "https://www.linkedin.com/in/banuka-senadheera-578b61312",
+        github: "https://github.com/banuka04"
     },
     {
         id: 5,
